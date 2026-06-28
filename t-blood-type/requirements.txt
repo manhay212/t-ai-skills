@@ -1,0 +1,1 @@
+# t-blood-type has no third-party dependencies (Python 3 standard library only).

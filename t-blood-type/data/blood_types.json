@@ -1,0 +1,53 @@
+{
+  "_about": "East-Asian (Japanese-origin) blood-type personality lore (血液型性格). Pop-culture entertainment, not science. Frame readings lightly.",
+  "types": {
+    "A": {
+      "name_zh": "A型",
+      "keywords": ["earnest", "considerate", "responsible", "perfectionist"],
+      "light": "Conscientious, patient, cooperative, detail-loving; the dependable one who remembers everyone's preferences.",
+      "shadow": "Anxious, over-cautious, bottles up stress, quietly stubborn, fears rocking the boat.",
+      "strengths": ["reliability", "empathy for others' feelings", "follow-through", "tact"],
+      "frictions": ["overthinking", "people-pleasing", "slow to open up", "self-criticism"],
+      "in_love": "Loyal and attentive, shows care through small thoughtful acts; needs reassurance and a partner who doesn't mistake their reserve for distance."
+    },
+    "B": {
+      "name_zh": "B型",
+      "keywords": ["free-spirited", "creative", "individualistic", "passionate"],
+      "light": "Curious, spontaneous, warm, marches to their own beat and pulls others into their enthusiasm.",
+      "shadow": "Can seem self-absorbed, unpredictable, too blunt, loses interest fast.",
+      "strengths": ["originality", "honesty", "adaptability", "living in the moment"],
+      "frictions": ["restlessness", "dislike of rules", "tactlessness", "follow-through"],
+      "in_love": "Exciting and affectionate on their own terms; needs freedom and novelty, and a partner who doesn't try to cage them."
+    },
+    "O": {
+      "name_zh": "O型",
+      "keywords": ["confident", "sociable", "resilient", "natural leader"],
+      "light": "Warm, generous, goal-driven, the glue of the group; bounces back from setbacks.",
+      "shadow": "Stubborn, blunt, competitive, likes the spotlight and being right.",
+      "strengths": ["leadership", "loyalty to their people", "optimism", "drive"],
+      "frictions": ["my-way streak", "impatience", "ego", "directness that stings"],
+      "in_love": "Protective, devoted, and generous; wants to lead and provide, and needs to feel admired and trusted."
+    },
+    "AB": {
+      "name_zh": "AB型",
+      "keywords": ["rational", "cool-headed", "versatile", "private"],
+      "light": "Calm, fair, perceptive, sees many sides; an empathetic listener who rarely loses composure.",
+      "shadow": "Aloof, hard to read, indecisive, switches modes in ways that confuse people.",
+      "strengths": ["objectivity", "diplomacy", "composure", "seeing nuance"],
+      "frictions": ["emotional distance", "indecision", "guardedness", "seeming detached"],
+      "in_love": "Thoughtful and understanding, loves with the head as much as the heart; needs space and a partner who is patient with their reserve."
+    }
+  },
+  "compatibility": {
+    "A-A": {"score": 4, "summary": "Two careful, considerate souls — calm and harmonious, sharing values and routines.", "watch": "Both can be anxious and passive; nobody wants to rock the boat, so issues fester unspoken."},
+    "A-B": {"score": 3, "summary": "Opposites that can balance: B loosens A up, A grounds B.", "watch": "A craves reliability; B craves freedom. Friction over plans, tidiness, and consistency."},
+    "A-O": {"score": 4, "summary": "A classic steady pairing — O leads with warmth, A supports with care.", "watch": "O's bluntness can bruise A's sensitivity; A should speak up before resentment builds."},
+    "A-AB": {"score": 4, "summary": "Quiet mutual understanding — AB reads A's reserve well and keeps things calm.", "watch": "Both are private; without effort it can drift into politeness without intimacy."},
+    "B-B": {"score": 3, "summary": "Lively, playful, never boring — two free spirits enjoying the ride.", "watch": "Two strong whims can collide; neither loves compromise or routine."},
+    "B-O": {"score": 4, "summary": "High-energy and fun — O grounds B's chaos, B keeps O from taking itself too seriously.", "watch": "Both can be stubborn and blunt; clashes are loud but usually clear the air."},
+    "B-AB": {"score": 3, "summary": "Creative and flexible — AB enjoys B's spark, both go with the flow.", "watch": "B may read AB as cool or aloof; AB may find B's intensity tiring."},
+    "O-O": {"score": 3, "summary": "Powerful and loyal — two warm leaders who'd go to bat for each other.", "watch": "Two captains, one ship: pride and a my-way streak need conscious give-and-take."},
+    "O-AB": {"score": 5, "summary": "Often cited as a standout match — O's warmth and drive meet AB's calm and perspective.", "watch": "O wants visible affection; AB shows it subtly. Name the love languages early."},
+    "AB-AB": {"score": 3, "summary": "Deep, low-drama understanding — two composed minds that just get each other.", "watch": "Both reserved and a bit detached; someone has to actually voice the feelings."}
+  }
+}
