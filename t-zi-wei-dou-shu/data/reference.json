@@ -1,0 +1,40 @@
+{
+  "major_stars": {
+    "紫微": "The Emperor star — leadership, dignity, status, a need to be respected; noble but can be aloof or proud.",
+    "天機": "The Strategist — intelligence, adaptability, planning, restlessness; clever, analytical, sometimes overthinks.",
+    "太陽": "The Sun — generosity, drive, brightness, public-spiritedness; warm and giving, can overextend or burn out.",
+    "武曲": "The General of Wealth — decisiveness, discipline, money sense, resolve; capable and tough, can be blunt or lonely.",
+    "天同": "The Child of Fortune — gentleness, contentment, enjoyment, emotional warmth; easygoing, can lack drive.",
+    "廉貞": "The Reformer — complexity, passion, principle, intensity; charismatic and disciplined, can be moody or rigid.",
+    "天府": "The Treasury — stability, management, generosity, conservatism; steady and trustworthy, can be cautious or possessive.",
+    "太陰": "The Moon — sensitivity, nurturing, intuition, aesthetics; tender and refined, can be moody or self-protective.",
+    "貪狼": "The Desire star — charm, versatility, appetite for life, sociability; magnetic and adaptable, can be indulgent.",
+    "巨門": "The Gate of Debate — eloquence, scrutiny, insight, scepticism; sharp and probing, prone to disputes or doubt.",
+    "天相": "The Minister/Seal — fairness, service, loyalty, diplomacy; supportive and dignified, can be indecisive.",
+    "天梁": "The Elder — protection, wisdom, integrity, caregiving; principled and steady, can be preachy or stubborn.",
+    "七殺": "The Commander — boldness, independence, decisiveness, a pioneering edge; powerful but restless and abrupt.",
+    "破軍": "The Vanguard — disruption, change, courage, reinvention; breaks the old to build the new, can be impulsive."
+  },
+  "palaces": {
+    "命宮": "Life / Destiny palace — the core self, character, and overall fortune. Read this first.",
+    "兄弟": "Siblings palace — siblings, close friends, peers, and how you bond with equals.",
+    "夫妻": "Spouse palace — marriage, the partner, and the nature of your romantic relationships.",
+    "子女": "Children palace — children, creativity, students, and your nurturing/legacy.",
+    "財帛": "Wealth palace — money, earning style, and your relationship with material resources.",
+    "疾厄": "Health palace — constitution, vulnerabilities, stress, and physical/emotional wellbeing.",
+    "遷移": "Travel/Movement palace — the outer world, opportunities away from home, social standing abroad.",
+    "僕役": "Friends/Subordinates palace — friends, colleagues, networks, and how others support you.",
+    "官祿": "Career palace — work, profession, achievement, and public role.",
+    "田宅": "Property palace — home, real estate, family environment, and material security.",
+    "福德": "Fortune/Spirit palace — inner life, contentment, values, blessings, and how you enjoy life.",
+    "父母": "Parents palace — parents, elders, authority figures, and inherited support or pressure."
+  },
+  "mutagens": {
+    "祿": "化祿 — fortune & flow: resources, opportunity, ease, and good relations come to this star.",
+    "權": "化權 — power & authority: drive, control, capability, and assertiveness amplify this star.",
+    "科": "化科 — fame & merit: reputation, recognition, learning, and refinement enhance this star.",
+    "忌": "化忌 — obstacle & attachment: friction, fixation, loss, or lessons cluster around this star."
+  },
+  "five_elements_note": "五行局 (e.g. 金四局) sets the rhythm of the decadal luck cycles (大限) — the number is the age the first decade begins around.",
+  "soul_body_note": "命主 (soul) and 身主 (body) are guardian stars: 命主 reflects the innate self, 身主 the acquired/later self."
+}
