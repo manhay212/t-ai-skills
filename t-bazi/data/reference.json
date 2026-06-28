@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "wood": {"zh": "木", "traits": "growth, kindness, vision, flexibility; can be idealistic or scattered", "season": "spring"},
+    "fire": {"zh": "火", "traits": "passion, warmth, charisma, expression; can be impatient or burn out", "season": "summer"},
+    "earth": {"zh": "土", "traits": "stability, loyalty, nurturing, practicality; can be stubborn or worry-prone", "season": "late summer"},
+    "metal": {"zh": "金", "traits": "discipline, clarity, integrity, determination; can be rigid or cutting", "season": "autumn"},
+    "water": {"zh": "水", "traits": "wisdom, adaptability, intuition, depth; can be fearful or evasive", "season": "winter"}
+  },
+  "day_master_note": "The day stem (日主) is the 'self' of the chart — read its element first to understand the person's core nature. Balance of the five elements shows what supports or pressures that self.",
+  "ten_gods": {
+    "比肩": "Friend/peer (same element, same polarity): independence, self-reliance, rivalry among equals.",
+    "劫财": "Rob wealth (same element, opposite polarity): boldness, risk-taking, competitiveness over resources.",
+    "食神": "Eating god (output, same polarity): easygoing creativity, enjoyment, expression, appetite for life.",
+    "伤官": "Hurting officer (output, opposite polarity): brilliance, rebellion, talent that resists authority.",
+    "偏财": "Indirect wealth (wealth, same polarity): opportunistic, generous, windfalls, fluid with money.",
+    "正财": "Direct wealth (wealth, opposite polarity): steady earning, frugality, commitment, reliability.",
+    "七杀": "Seven killings (power, same polarity): drive, pressure, decisiveness, a warrior's edge.",
+    "正官": "Direct officer (power, opposite polarity): discipline, status, responsibility, rule-following.",
+    "偏印": "Indirect resource (resource, same polarity): unconventional learning, intuition, a guarded mind.",
+    "正印": "Direct resource (resource, opposite polarity): nurturing, study, protection, support from elders.",
+    "日主": "The day master itself — the 'self' reference point of the chart."
+  }
+}
