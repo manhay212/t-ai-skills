@@ -1,0 +1,86 @@
+{
+  "root": {
+    "name": "Root Chakra",
+    "sanskrit": "Muladhara",
+    "color": "red",
+    "location": "base of the spine",
+    "element": "earth",
+    "focus": "survival, safety, grounding, stability, basic needs, belonging",
+    "balanced": ["grounded and secure", "calm and present in the body", "financially and physically stable", "able to trust life"],
+    "underactive": ["anxious or fearful", "ungrounded, spacey, disconnected from the body", "insecure about money or safety", "low energy, hard to feel settled"],
+    "overactive": ["rigid and resistant to change", "materialistic or hoarding", "sluggish, stuck, overly cautious", "controlling around security"],
+    "practices": ["walk barefoot on the earth", "grounding movement or exercise", "eat root vegetables / red foods", "build steady daily routines", "spend time in nature"]
+  },
+  "sacral": {
+    "name": "Sacral Chakra",
+    "sanskrit": "Svadhisthana",
+    "color": "orange",
+    "location": "lower abdomen, below the navel",
+    "element": "water",
+    "focus": "emotions, creativity, pleasure, sensuality, flow, desire",
+    "balanced": ["emotionally fluid and expressive", "creative and playful", "able to enjoy pleasure healthily", "passionate and inspired"],
+    "underactive": ["emotionally numb or flat", "uninspired, creatively blocked", "fear of pleasure or intimacy", "rigid, joyless"],
+    "overactive": ["emotionally volatile or dramatic", "overindulgent or addictive patterns", "ruled by cravings", "emotionally over-attached"],
+    "practices": ["creative play and art", "dance and free movement of the hips", "spend time near or in water", "honor and feel your emotions", "eat orange foods"]
+  },
+  "solar_plexus": {
+    "name": "Solar Plexus Chakra",
+    "sanskrit": "Manipura",
+    "color": "yellow",
+    "location": "upper abdomen, the stomach area",
+    "element": "fire",
+    "focus": "personal power, confidence, willpower, self-esteem, identity",
+    "balanced": ["confident and self-assured", "motivated and decisive", "healthy boundaries", "comfortable with personal power"],
+    "underactive": ["low self-esteem", "indecisive or passive", "fear of judgment", "victim mindset, easily pushed around"],
+    "overactive": ["domineering or controlling", "aggressive or quick to anger", "perfectionistic, workaholic", "needs to always be right"],
+    "practices": ["set and pursue small goals", "core-strengthening exercise", "spend time in sunlight", "practice asserting boundaries", "eat yellow foods"]
+  },
+  "heart": {
+    "name": "Heart Chakra",
+    "sanskrit": "Anahata",
+    "color": "green",
+    "location": "center of the chest",
+    "element": "air",
+    "focus": "love, compassion, connection, forgiveness, acceptance",
+    "balanced": ["loving and compassionate", "open and empathetic", "able to forgive and accept", "at peace with self and others"],
+    "underactive": ["lonely or withdrawn", "guarded, fear of intimacy", "holding grudges", "hard to give or receive love"],
+    "overactive": ["over-giving to your own detriment", "codependent, poor boundaries", "jealous or possessive", "loses self in others"],
+    "practices": ["keep a gratitude practice", "do small acts of kindness", "practice self-compassion", "heart-opening stretches", "forgiveness reflection", "eat green foods"]
+  },
+  "throat": {
+    "name": "Throat Chakra",
+    "sanskrit": "Vishuddha",
+    "color": "blue",
+    "location": "the throat",
+    "element": "sound / ether",
+    "focus": "communication, truth, self-expression, listening",
+    "balanced": ["expressive and honest", "speaks truth with ease", "a good listener", "communicates clearly"],
+    "underactive": ["shy, struggles to speak up", "fear of being judged", "withholds true feelings", "feels unheard"],
+    "overactive": ["talks over others", "dominates conversation or gossips", "harsh or blunt speech", "doesn't listen"],
+    "practices": ["sing, hum, or chant", "journal your truth", "practice mindful listening", "speak one honest thing today", "neck and shoulder stretches", "eat blue foods"]
+  },
+  "third_eye": {
+    "name": "Third Eye Chakra",
+    "sanskrit": "Ajna",
+    "color": "indigo",
+    "location": "between the eyebrows",
+    "element": "light",
+    "focus": "intuition, insight, imagination, perception, clarity",
+    "balanced": ["intuitive and insightful", "imaginative yet clear-minded", "trusts inner wisdom", "sees the bigger picture"],
+    "underactive": ["foggy, lacks clarity", "out of touch with intuition", "rigid, overly literal thinking", "in denial"],
+    "overactive": ["lost in fantasy or escapism", "overactive imagination", "disconnected from reality", "ruminating, overanalyzing"],
+    "practices": ["meditate quietly", "visualization or dreamwork", "reduce screen time", "stargaze or watch the sky", "trust a small hunch", "eat purple foods"]
+  },
+  "crown": {
+    "name": "Crown Chakra",
+    "sanskrit": "Sahasrara",
+    "color": "violet / white",
+    "location": "the top of the head",
+    "element": "thought / consciousness",
+    "focus": "spirituality, meaning, connection to something larger, awareness",
+    "balanced": ["connected and purposeful", "at peace, spiritually aware", "open-minded", "feels life has meaning"],
+    "underactive": ["disconnected or cynical", "lacks sense of meaning", "closed-minded", "spiritually skeptical or empty"],
+    "overactive": ["spiritual bypassing", "dissociated, ungrounded", "overintellectualizes everything", "disconnected from the body and earth"],
+    "practices": ["meditation or prayer", "sit in silence", "spend reflective time in nature", "practice present-moment awareness", "gratitude for the larger whole"]
+  }
+}
