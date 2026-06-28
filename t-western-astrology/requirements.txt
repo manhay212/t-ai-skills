@@ -1,0 +1,3 @@
+kerykeion>=5.0
+geonamescache>=2.0
+timezonefinder>=6.0

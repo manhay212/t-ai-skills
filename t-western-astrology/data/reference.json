@@ -1,0 +1,41 @@
+{
+  "signs": {
+    "Aries": {"element": "fire", "modality": "cardinal", "ruler": "Mars", "keywords": ["bold", "pioneering", "impulsive", "direct"], "blurb": "Initiating fire — courageous, competitive, quick to act, loves a fresh start."},
+    "Taurus": {"element": "earth", "modality": "fixed", "ruler": "Venus", "keywords": ["steady", "sensual", "loyal", "stubborn"], "blurb": "Grounded earth — patient, pleasure-loving, security-seeking, immovable once settled."},
+    "Gemini": {"element": "air", "modality": "mutable", "ruler": "Mercury", "keywords": ["curious", "witty", "versatile", "restless"], "blurb": "Quick air — communicative, playful, endlessly curious, easily bored."},
+    "Cancer": {"element": "water", "modality": "cardinal", "ruler": "Moon", "keywords": ["nurturing", "sensitive", "protective", "moody"], "blurb": "Tender water — caring, intuitive, home-loving, guards a soft heart with a shell."},
+    "Leo": {"element": "fire", "modality": "fixed", "ruler": "Sun", "keywords": ["warm", "generous", "proud", "dramatic"], "blurb": "Radiant fire — confident, big-hearted, loves to shine and be appreciated."},
+    "Virgo": {"element": "earth", "modality": "mutable", "ruler": "Mercury", "keywords": ["precise", "helpful", "analytical", "self-critical"], "blurb": "Discerning earth — practical, detail-loving, of service, hard on themselves."},
+    "Libra": {"element": "air", "modality": "cardinal", "ruler": "Venus", "keywords": ["harmonious", "fair", "charming", "indecisive"], "blurb": "Relational air — seeks balance, beauty, and partnership; weighs every side."},
+    "Scorpio": {"element": "water", "modality": "fixed", "ruler": "Pluto/Mars", "keywords": ["intense", "deep", "loyal", "secretive"], "blurb": "Profound water — passionate, perceptive, all-or-nothing, transforms through depth."},
+    "Sagittarius": {"element": "fire", "modality": "mutable", "ruler": "Jupiter", "keywords": ["adventurous", "optimistic", "philosophical", "blunt"], "blurb": "Expansive fire — freedom-loving, truth-seeking, restless for the next horizon."},
+    "Capricorn": {"element": "earth", "modality": "cardinal", "ruler": "Saturn", "keywords": ["ambitious", "disciplined", "responsible", "reserved"], "blurb": "Building earth — patient climber, pragmatic, takes the long view, quietly devoted."},
+    "Aquarius": {"element": "air", "modality": "fixed", "ruler": "Uranus/Saturn", "keywords": ["original", "independent", "humanitarian", "detached"], "blurb": "Visionary air — inventive, principled, future-minded, marches to its own drum."},
+    "Pisces": {"element": "water", "modality": "mutable", "ruler": "Neptune/Jupiter", "keywords": ["compassionate", "imaginative", "dreamy", "escapist"], "blurb": "Boundless water — empathic, artistic, spiritual, dissolves the line between self and other."}
+  },
+  "planets": {
+    "Sun": "core identity, ego, vitality, how you shine",
+    "Moon": "emotions, inner needs, instincts, what makes you feel safe",
+    "Mercury": "mind, communication, how you think and speak",
+    "Venus": "love, attraction, values, how you relate and what you find beautiful",
+    "Mars": "drive, desire, anger, how you assert and pursue",
+    "Jupiter": "growth, luck, beliefs, where you expand",
+    "Saturn": "discipline, limits, responsibility, where you mature the hard way",
+    "Uranus": "change, rebellion, originality, where you break the mold",
+    "Neptune": "dreams, intuition, illusion, where boundaries dissolve",
+    "Pluto": "power, transformation, the depths, where you're reborn",
+    "Ascendant": "the rising sign — your outward style, first impression, the mask you meet the world with",
+    "Descendant": "what you seek in a partner; the qualities you're drawn to in others",
+    "Medium_Coeli": "the Midheaven — public role, career, reputation, aspiration",
+    "Mean_Node": "the lunar north node — your growth direction in this life"
+  },
+  "aspects": {
+    "conjunction": "0° — fusion; the two planets blend and intensify each other",
+    "sextile": "60° — easy opportunity; gifts that flow with a little effort",
+    "square": "90° — tension that drives growth; friction demanding action",
+    "trine": "120° — natural harmony and talent; easy, sometimes taken for granted",
+    "opposition": "180° — polarity; a push-pull seeking balance, often via others",
+    "quincunx": "150° — awkward adjustment; two energies that don't quite fit"
+  },
+  "notes": "Element balance (fire/earth/air/water) and modality balance (cardinal/fixed/mutable) are tallied across the ten planets. A dominant or missing element/modality colors the whole temperament."
+}
