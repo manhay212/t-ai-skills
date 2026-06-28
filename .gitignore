@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Skill outputs (skills print to stdout; any --output files are local/PII)
+output_*.json
+*.local.json
+
+# OS / editor
+.DS_Store
+*.swp
